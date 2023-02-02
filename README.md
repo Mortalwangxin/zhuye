@@ -5,6 +5,8 @@
 >这是忘心个人主页
 
 >衍生自 [Joe](https://github.com/HaoOuBa/Joe) Joe 主题
+
+>GitHub项目地址：[个人主页](https://github.com/Mortalwangxin/zhuye) 
 ### 具体使用
 >具体修改介绍
 [修改介绍](https://www.wxword.cn/archives/339.html) 忘心博客
